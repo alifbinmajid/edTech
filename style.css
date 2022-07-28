@@ -2,10 +2,8 @@ body{
     margin: auto;
     font-family: 'Poppins', sans-serif;
 }
-.courses{
-    height: auto;
-    width: 500px;
-    margin: auto;
+.my-img{
+    filter: brightness(50%);
 }
 .bg-about{
     background-color: #F4FAFD;
