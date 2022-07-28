@@ -1,4 +1,8 @@
-.slider-hight{
-    height: 400px;
-    background-color: aqua; 
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.courses{
+    height: auto;
+    width: 500px;
+    margin: auto;
 }
